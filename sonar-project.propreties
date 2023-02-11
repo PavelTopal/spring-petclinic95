@@ -1,0 +1,3 @@
+sonar.organization=PavelTopal
+sonar.projectKey=PavelTopal_spring-petclinic95
+sonar.sources=.
